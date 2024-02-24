@@ -1,5 +1,5 @@
 {
-  "name": "weather-fetch-cli-simple",
+  "name": "weather-cli-city-weather",
   "version": "1.0.0",
   "description": "simple weather cli apps",
   "main": "bin/index.js",
