@@ -1,0 +1,28 @@
+{
+  "name": "weather-simple-cli",
+  "version": "1.0.0",
+  "description": "simple weather cli apps",
+  "main": "bin/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinyxn/weather-simple-cli.git"
+  },
+  "keywords": [
+    "weather",
+    "weather-cli",
+    "weather-data",
+    "cli"
+  ],
+  "bin": {
+    "weather-cli": "./bin/index.js"
+  },
+  "author": "shinyxn",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
