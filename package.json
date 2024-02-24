@@ -1,6 +1,6 @@
 {
-  "name": "weather-simple-cli",
-  "version": "1.0.1",
+  "name": "weather-cli-simple",
+  "version": "1.0.0",
   "description": "simple weather cli apps",
   "main": "bin/index.js",
   "type": "module",
