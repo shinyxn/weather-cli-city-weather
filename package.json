@@ -1,6 +1,6 @@
 {
   "name": "weather-cli-city-weather",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "app to get weather information",
   "main": "bin/index.js",
   "type": "module",
@@ -21,7 +21,7 @@
     "weather-cli": "./bin/index.js"
   },
   "author": "shinyxn",
-  "license": "ISC",
+  "license": "MIT",
     "bugs": {
     "url": "https://github.com/shinyxn/weather-cli-city-weather/issues"
   },
