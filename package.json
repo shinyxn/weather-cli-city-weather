@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shinyxn/weather-simple-cli.git"
+    "url": "git+https://github.com/shinyxn/weather-cli-city-weather.git"
   },
   "keywords": [
     "weather",
@@ -22,6 +22,9 @@
   },
   "author": "shinyxn",
   "license": "ISC",
+    "bugs": {
+    "url": "https://github.com/shinyxn/weather-cli-city-weather/issues"
+  },
   "dependencies": {
     "yargs": "^17.7.2"
   }
